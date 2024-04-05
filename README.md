@@ -8,8 +8,16 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&amp;layout=compact&amp;hide_border=true&amp;title_color=0000CD&amp;text_color=0000CD&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaolegario&bg_color=0d1117&color=abaaac&line=0000cd&point=a29696&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.linkedin.com/in/rafael-olegario-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.instagram.com/rafa.elbisoffi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+<br>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaolegario&bg_color=0d1117&color=abaaac&line=0000cd&point=a29696&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
