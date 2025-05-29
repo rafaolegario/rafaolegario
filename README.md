@@ -21,7 +21,6 @@
 - **Frameworks:** NestJS, Node.js, Express
 - **Database:** PostgreSQL, SQLite, Prisma
 - **Tools:** Git, GitHub, Docker, REST Client
-- **Cloud & DevOps:** S3, Cloudinary, Render, Vercel
 - **Testing:** Jest, Supertest
 - **Others:** Clean Architecture, DDD, Repository Pattern
 
