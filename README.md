@@ -17,7 +17,7 @@
 
 ### 🧰 Tech Stack
 
-- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Languages:** TypeScript, JavaScript
 - **Frameworks:** NestJS, Node.js, Express
 - **Database:** PostgreSQL, SQLite, Prisma
 - **Tools:** Git, GitHub, Docker, REST Client
